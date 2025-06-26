@@ -1,4 +1,4 @@
-<img src="https://github.com/silpako/silpako/blob/86efd13fdcb51445f24c6930c3b2936a63239a74/Flutter%20DEVELOPER.png?raw=true" width="100%" alt="Flutter Developer Banner" />
+<img src="https://github.com/silpako/silpako/blob/86efd13fdcb51445f24c6930c3b2936a63239a74/Flutter%20DEVELOPER.png?raw=true" height="100" alt="Flutter Developer Banner" />
 
 
 # 👋 Hi, I'm Silpa K O
