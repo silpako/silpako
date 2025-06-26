@@ -17,9 +17,10 @@
 
 ## 📬 Let's Connect
 
-- 💼 https://www.linkedin.com/in/silpako/
-- 📧 silpako167@gmail.com
 <p align="left">
+  <a href="silpako167@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="email" width="30" height="30"/>
+  </a>
   <a href="https://www.linkedin.com/in/silpako/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
   </a>
