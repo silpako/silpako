@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Silpa K O
 
-<!--
-**silpako/silpako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter Developer | Cross-Platform App Specialist 📱 | UI/UX Enthusiast 🎨**
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  💻 Languages         - Dart                                                 
+  📱 Framework         - Flutter                                              
+  ⚙️ State Management  - GetX, Provider, BLoC                                
+  🗃️ Database          - Firebase, SQFlite, Hive, SharedPreferences           
+  🧱 Architecture      - MVC, MVVM, Clean Architecture                       
+  🔗 API Tools         - REST, Postman, Swagger, Dio                         
+  🎨 UI/UX Design      - Figma, Material Design, Responsive Layouts, Canva      
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/silpako/)
+- 📧 silpako167@gmail.com
