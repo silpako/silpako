@@ -21,11 +21,9 @@
 - 📧 silpako167@gmail.com
 
 ## Languages and Tool
-### Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/silpako/" target="_blank">Connect with me on LinkedIn</a>
-/
+  <a href=" https://www.linkedin.com/in/silpako/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
   </a>
   <a href="https://www.facebook.com/your-facebook-username/" target="_blank">
@@ -35,3 +33,4 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" width="30" height="30"/>
   </a>
 </p>
+
