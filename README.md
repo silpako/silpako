@@ -19,18 +19,21 @@
 
 - 💼 https://www.linkedin.com/in/silpako/
 - 📧 silpako167@gmail.com
-
-## Languages and Tool
-
 <p align="left">
-  <a href=" https://www.linkedin.com/in/silpako/" target="_blank">
+  <a href="https://www.linkedin.com/in/silpako/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
   </a>
-  <a href="https://www.facebook.com/your-facebook-username/" target="_blank">
+  
+  <a href="https://www.facebook.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" width="30" height="30"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
+  
+  <a href="https://www.instagram.com/__sil.sreeee__/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" width="30" height="30"/>
   </a>
 </p>
+
+
+## Languages and Tool
+
 
