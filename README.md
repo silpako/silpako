@@ -24,7 +24,8 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/silpako/" target="_blank">Connect with me on LinkedIn</a>
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
   </a>
   <a href="https://www.facebook.com/your-facebook-username/" target="_blank">
