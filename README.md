@@ -25,3 +25,15 @@
   <a href="https://www.instagram.com/your-instagram/"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"></a>
   <a href="https://www.yourportfolio.com/"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=about-dot-me"></a>
 </p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/your-instagram-username/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/your-facebook-username/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+  </a>
+</p>
