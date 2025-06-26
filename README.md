@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
   </a>
   
-  <a href="[https://www.facebook.com/](https://www.facebook.com/share/1YZSWQfmLJ/)" target="_blank">
+ <a href="https://www.facebook.com/share/1YZSWQfmLJ/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="facebook" width="30" height="30"/>
   </a>
   
