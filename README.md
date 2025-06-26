@@ -36,5 +36,36 @@
 
 
 ## Languages and Tool
+<h3 align="left">🛠️ Tools & Platforms</h3>
+<p align="left">
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/>
+  </a>
+
+  <a href="https://dart.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="30" height="30"/>
+  </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
+  </a>
+
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="30" height="30"/>
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="25" height="30"/>
+  </a>
+
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30"/>
+  </a>
+
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" alt="Canva" width="30" height="30"/>
+  </a>
+</p>
+
 
 
