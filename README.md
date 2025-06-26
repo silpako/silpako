@@ -15,7 +15,8 @@
   🔗 API Tools         - REST, Postman, Swagger, Dio, Http                        
   🎨 UI/UX Design      - Figma, Material Design, Responsive Layouts, Canva      
 
-## 📬 Let's Connect
+
+<h2>Connect with me</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/silpako/" target="_blank">
@@ -32,7 +33,7 @@
 </p>
 
 
-<h4>🛠️ Languages and Tools</h4>
+<h2>🛠️ Languages and Tools</h2>
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/>
