@@ -3,7 +3,7 @@
 
 <h1 align="center"> 👋 Hi, I'm Silpa K O </h1>
 
-<h3 align="center"> 🚀 **Flutter Developer | Cross-Platform App Specialist 📱 | UI/UX Enthusiast 🎨**</h3>
+<h3 align="center"> 🚀Flutter Developer | Cross-Platform App Specialist📱 | UI/UX Enthusiast🎨</h3>
 
 
   💻 Languages         - Dart                                                 
