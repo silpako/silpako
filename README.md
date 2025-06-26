@@ -53,6 +53,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="30" height="30"/>
   </a>
 
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30"/>
+  </a>
+
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="25" height="30"/>
   </a>
