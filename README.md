@@ -6,13 +6,16 @@
 <h3 align="center"> 🚀Flutter Developer | Cross-Platform App Specialist📱 | UI/UX Enthusiast🎨</h3>
 
 
-  💻 Languages         - Dart                                                 
-  📱 Framework         - Flutter                                              
-  ⚙️ State Management  - GetX, Provider, BLoC                                
-  🗃️ Database          - Firebase, SQFlite, Hive, SharedPreferences           
-  🧱 Architecture      - MVC, MVVM, Clean Architecture                       
-  🔗 API Tools         - REST, Postman, Swagger, Dio, Http                        
-  🎨 UI/UX Design      - Figma, Material Design, Responsive Layouts, Canva      
+💻 Languages: Dart
+📱 Framework: Flutter
+⚙️ State Management: GetX, Provider, BLoC, Riverpod
+🗃️ Database & Storage: Firebase, Hive, SQFlite, SharedPreferences, Secure Storage
+🧱 Architecture: MVC, MVVM, Clean Architecture, Repository Pattern
+🔗 API & Networking: REST APIs, Dio, Http, Postman, Swagger, JSON Parsing
+🔥 Firebase: Authentication, Firestore, Storage, FCM, Crashlytics
+🎨 UI/UX: Figma, Material Design, Responsive UI, Custom Widgets, Canva
+🛠️ Tools: Git, GitHub, Android Studio, VS Code, Jira
+🚀 Additional: Push Notifications, PDF Generation, Google Maps Integration, Deep Linking, Play Store Deployment, Performance Optimization 
 
 
 <h4>Connect with me</h4>
