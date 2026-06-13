@@ -71,6 +71,20 @@
   <a href="https://www.canva.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" alt="Canva" width="30" height="30"/>
   </a>
+  
+  <a href="https://git-scm.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+</a>
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30"/>
+</a>
+<a href="https://hoppscotch.io/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/40165699?s=200&v=4" alt="Hoppscotch" width="30" height="30"/>
+</a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silpako&layout=compact&langs_count=6&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
