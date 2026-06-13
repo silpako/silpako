@@ -6,17 +6,20 @@
 <h3 align="center"> 🚀Flutter Developer | Cross-Platform App Specialist📱 | UI/UX Enthusiast🎨</h3>
 
 
-  💻 Languages: Dart
-  📱 Framework: Flutter
-  ⚙️ State Management: GetX, Provider, BLoC, Riverpod
-  🗃️ Database & Storage: Firebase, Hive, SQFlite, SharedPreferences, Secure Storage
-  🧱 Architecture: MVC, MVVM, Clean Architecture, Repository Pattern
-  🔗 API & Networking: REST APIs, Dio, Http, Postman, Swagger, JSON Parsing
-  🔥 Firebase: Authentication, Firestore, Storage, FCM, Crashlytics
-  🎨 UI/UX: Figma, Material Design, Responsive UI, Custom Widgets, Canva
-  🛠️ Tools: Git, GitHub, Android Studio, VS Code, Jira
-  🚀 Additional: Push Notifications, PDF Generation, Google Maps Integration, Deep Linking, Play Store Deployment, Performance Optimization 
+ <h3>👩‍💻 Skills & Technologies</h3>
 
+<ul>
+  <li><b>💻 Languages:</b> Dart</li>
+  <li><b>📱 Framework:</b> Flutter</li>
+  <li><b>⚙️ State Management:</b> GetX, Provider, BLoC, Riverpod</li>
+  <li><b>🗃️ Database & Storage:</b> Firebase, Hive, SQFlite, SharedPreferences, Secure Storage</li>
+  <li><b>🧱 Architecture:</b> MVC, MVVM, Clean Architecture, Repository Pattern</li>
+  <li><b>🔗 API & Networking:</b> REST APIs, Dio, Http, Postman, Swagger, JSON Parsing</li>
+  <li><b>🔥 Firebase:</b> Authentication, Firestore, Storage, FCM, Crashlytics</li>
+  <li><b>🎨 UI/UX:</b> Figma, Material Design, Responsive UI, Custom Widgets, Canva</li>
+  <li><b>🛠️ Tools:</b> Git, GitHub, Android Studio, VS Code, Jira</li>
+  <li><b>🚀 Additional:</b> Push Notifications, PDF Generation, Google Maps Integration, Deep Linking, Play Store Deployment, Performance Optimization</li>
+</ul>
 
 <h4>Connect with me</h4>
 
