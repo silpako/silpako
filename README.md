@@ -14,7 +14,7 @@
   <li><b>⚙️ State Management:</b> GetX, Provider, BLoC, Riverpod</li>
   <li><b>🗃️ Database & Storage:</b> Firebase, Hive, SQFlite, SharedPreferences, Secure Storage</li>
   <li><b>🧱 Architecture:</b> MVC, MVVM, Clean Architecture</li>
-  <li><b>🔗 API & Networking:</b> REST APIs, Dio, Http, Postman, Swagger, JSON Parsing</li>
+  <li><b>🔗 API & Networking:</b> REST APIs, Dio, Http, Postman, Hoppscotch, Swagger, JSON Parsing</li>
   <li><b>🔥 Firebase:</b> Authentication, Firestore, Storage, FCM,</li>
   <li><b>🎨 UI/UX:</b> Figma, Material Design, Responsive UI, Custom Widgets, Canva</li>
   <li><b>🛠️ Tools:</b> Git, GitHub, Android Studio, VS Code</li>
